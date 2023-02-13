@@ -40,7 +40,7 @@ overflow: hidden;
     100%{
         
         transform: translateX(-100%);
-        font-family: Courier;
+        font-family: 'Itim';
     }
 }
 .pictures img{
